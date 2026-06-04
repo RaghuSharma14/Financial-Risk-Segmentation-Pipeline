@@ -1,6 +1,6 @@
 -- Create the Database
-CREATE DATABASE IF NOT EXISTS amex_risk_project;
-USE amex_risk_project;
+CREATE DATABASE IF NOT EXISTS portfolio_risk_db;
+USE portfolio_risk_db;
 
 -- Create the Table Structure
 CREATE TABLE IF NOT EXISTS Customer_Profiles (
